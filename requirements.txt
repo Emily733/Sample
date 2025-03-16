@@ -3,3 +3,4 @@ uvicorn
 spacy
 numpy
 PyPDF2
+python-multipart
